@@ -1,0 +1,8 @@
+require("yetea.plugin.telescope")
+require("yetea.plugin.gruvbox")
+require("yetea.plugin.treesitter")
+require("yetea.plugin.lsp-zero")
+require("yetea.plugin.lualine")
+require("yetea.plugin.fugitive")
+require("yetea.plugin.indent-blankline")
+require("yetea.plugin.gitsigns")
